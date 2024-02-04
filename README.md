@@ -10,8 +10,10 @@ Tony Sharma, their data analytics director wanted to hire someone who is good at
 ## Ad-HOC Request
 Requests can be found here [AD-HOC REQUESTS](https://github.com/Swam80/SQL_Project_AtliQ_AdHoc/blob/main/ad-hoc-requests.pdf)
 
+## Report
+Here is the [Insights Report](https://github.com/Swam80/SQL_Project_AtliQ_AdHoc/blob/main/atliq_adhoc_analyis.pdf)
 
-## Major Insights
+## Insights
 
 * The percentage of unique product increase in 2021 vs. 2020 is 36.33%.
 * Accessories and Networking segments had the highest (34) and lowest (3) increase in unique products, respectively, in 2021 vs 2020.
@@ -20,7 +22,6 @@ Requests can be found here [AD-HOC REQUESTS](https://github.com/Swam80/SQL_Proje
 * In FY 2020, Q1 (Sep-Nov 2019) and Q3 had the maximum and minimum sold quantity of products, respectively.
 * For FY 2021, the top 3 products in the N&S, P&A, and PC divisions were pen drives, mouse, and personal laptops, respectively.
 
-## Report
-Here is the [Insights Report](https://github.com/Swam80/SQL_Project_AtliQ_AdHoc/blob/main/atliq_adhoc_analyis.pdf)
+
 
  
