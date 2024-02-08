@@ -7,8 +7,6 @@ Atliq Hardwares (imaginary company) is one of the leading computer hardware prod
 However, the management noticed that they do not get enough insights to make quick and smart data-informed decisions. They want to expand their data analytics team by adding several junior data analysts.
 Tony Sharma, their data analytics director wanted to hire someone who is good at both tech and soft skills. Hence, he decided to conduct a SQL challenge which will help him understand both the skills.
 
-## Ad-HOC Request
-Requests can be found here [AD-HOC REQUESTS](https://github.com/Swam80/SQL_Project_AtliQ_AdHoc/blob/main/ad-hoc-requests.pdf)
 
 ## Report
 Here is the [Insights Report](https://github.com/Swam80/SQL_Project_AtliQ_AdHoc/blob/main/atliq_adhoc_analyis.pdf)
